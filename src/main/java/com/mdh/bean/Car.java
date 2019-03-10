@@ -1,5 +1,8 @@
 package com.mdh.bean;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class Car {
 
     public Car() {
